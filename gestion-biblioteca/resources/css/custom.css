@@ -1,0 +1,48 @@
+/* Estilos personalizados para la página principal */
+
+body {
+    background-color: #f0f8ff;
+    font-family: 'Figtree', sans-serif;
+}
+
+.container {
+    margin: 0 auto;
+    padding: 50px;
+    text-align: center;
+}
+
+h1 {
+    font-size: 3rem;
+    color: #333;
+    margin-bottom: 20px;
+}
+
+p {
+    font-size: 1.25rem;
+    color: #666;
+    margin-bottom: 30px;
+}
+
+.btn {
+    display: inline-block;
+    padding: 10px 20px;
+    font-size: 1rem;
+    color: #fff;
+    background-color: #007bff;
+    border-radius: 5px;
+    text-decoration: none;
+    margin: 10px;
+    transition: background-color 0.3s ease;
+}
+
+.btn:hover {
+    background-color: #0056b3;
+}
+
+.btn-secondary {
+    background-color: #6c757d;
+}
+
+.btn-secondary:hover {
+    background-color: #5a6268;
+}

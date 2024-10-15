@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+/* Estilos básicos para la vista de libros */
+@import 'custom.css';
+
+/* Estilos básicos para la vista de libros */
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
